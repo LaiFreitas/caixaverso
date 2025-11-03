@@ -1,0 +1,10 @@
+# Ignorar a pasta de dados
+data/
+
+# Ignorar arquivos de ambiente Python
+venv/
+.venv/
+__pycache__/
+
+# Ignorar arquivos do Jupyter Notebook
+.ipynb_checkpoints/
